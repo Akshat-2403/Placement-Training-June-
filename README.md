@@ -13,16 +13,6 @@ This repo contains curated resources, notes, and practice materials to help stud
 - Provide **visual progress tracking** of covered topics.
 
 ---
-
-## 📂 Repository Structure
-- `Aptitude/` → Quantitative aptitude problems (Arithmetic, Algebra, Probability, etc.)
-- `Reasoning/` → Logical reasoning, puzzles, seating arrangements.
-- `Verbal/` → Grammar, comprehension, vocabulary practice.
-- `Programming/` → Data structures, algorithms, coding challenges.
-- `Interview/` → HR questions, behavioral tips, mock interview scripts.
-
----
-
 ## 📊 Topics Coverage Visualization
 
 ```mermaid
